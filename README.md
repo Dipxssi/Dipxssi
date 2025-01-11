@@ -1,7 +1,7 @@
 # Hi there, I'm Dipsha! 👋
 
 ## 🎓 About Me
-I am currently in my second year of studying Computer Science with a specialization in AI and Machine Learning at JSS Academy of Technical Education. 
+I am currently in my second year of studying Computer Science  at JSS Academy of Technical Education. 
 I am passionate about technology and eager to apply my knowledge in real-world projects.
 
 ## 💻 Skills

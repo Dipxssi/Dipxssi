@@ -1,12 +1,12 @@
-<h1 align="left">Hi there, I'm Dipsha! 👋</h1>
+<h1 align="left">You here ? Ciao👋: NULL </h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Me?</h3>
 
 ###
 
-<p align="left">I am currently a sophomore studying Computer Science at JSS Academy of Technical Education. I am passionate about technology and eager to apply my knowledge in real-world projects</p>
+<p align="left">Just someone who is having fun coding !!:)</p>
 
 ###
 
